@@ -2,7 +2,7 @@
 
 I am a Front-end Web Developer. Able to Javascript programming language. I have	skills on JavaScript, React and NodeJS. I have done many projects related to this.
 
-I’m currently learning Javascript, React JS And Node JS
+I’m currently learning Javascript, React JS, Node JS and Python
  
  ### Connect with me:
  E-Mail : moshiur9185@gmail.com
