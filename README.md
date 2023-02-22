@@ -1,6 +1,6 @@
 ## - 👋 Hi there, I'm Moshiur Rahman
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Javascript, React JS, Python and Django.
+- 🌱 I’m currently learning Javascript, React JS, Next JS, C language.
 
 
 I’m a Front-end Web Developer. Able to Javascript programming language. I have	skills on JavaScript, React and NodeJS. I have done many projects related to this.
