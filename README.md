@@ -7,7 +7,7 @@ I’m a Front-end Web Developer. Able to Javascript programming language. I have
 
  
  ### Connect with me:
- E-Mail : moshiur9185@gmail.com
+ E-Mail : moshiur.rahman9185@gmail.com
  
  Linkedin : https://www.linkedin.com/in/moshiur9185/
  
