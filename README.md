@@ -9,6 +9,6 @@ I’m a Front-end Web Developer. I am able to use Javascript programming languag
  ### Connect with me:
  E-Mail: moshiur.rahman9185@gmail.com
  
- Linkedin: https://www.linkedin.com/in/moshiur9185/
+ Linkedin: https://www.linkedin.com/in/moshiur9185
  
- Website: https://md-moshiur-rahman.web.app
+ Website: https://moshiur-rahman.vercel.app
